@@ -1,0 +1,16 @@
+Ciphertext: b170bf3aa7757dcceea6d14884cfb7107ccb8071c4e9d87ec798a7ae8e1b7c73d4a152d4d0bf8d5cbb6c558a29c2396e
+[PASS] Round trip returns original message
+[PASS] Hex string -> bytes -> plaintext
+[PASS] 16-byte message
+[PASS] Empty message
+[PASS] 1000-byte message
+[PASS] Wrong key does not recover message
+[PASS] Wrong IV does not recover message
+[PASS] Corrupted ciphertext throws
+[PASS] Empty ciphertext throws
+[PASS] Bad ciphertext length throws
+[PASS] Short key throws
+[PASS] Short IV throws
+[PASS] Invalid hex rejected
+
+Results: 13 passed, 0 failed

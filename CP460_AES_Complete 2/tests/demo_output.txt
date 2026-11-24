@@ -1,0 +1,30 @@
+
+AES-128-CBC Demonstration
+1. Encrypt and decrypt a message
+2. Decrypt hexadecimal ciphertext
+3. Exit
+Choose an option: Enter a message: Original message: Hello World
+Encrypted message (hex): 837b064e9869328b99eeece694813aae
+Decrypted message: Hello World
+Verification: PASS - messages match
+
+AES-128-CBC Demonstration
+1. Encrypt and decrypt a message
+2. Decrypt hexadecimal ciphertext
+3. Exit
+Choose an option: Enter a message: Original message: 
+Encrypted message (hex): 0a940bb5416ef045f1c39458c653ea5a
+Decrypted message: 
+Verification: PASS - messages match
+
+AES-128-CBC Demonstration
+1. Encrypt and decrypt a message
+2. Decrypt hexadecimal ciphertext
+3. Exit
+Choose an option: Enter ciphertext (hex): Decrypted message: Error: Hex input contains a non-hex character
+
+AES-128-CBC Demonstration
+1. Encrypt and decrypt a message
+2. Decrypt hexadecimal ciphertext
+3. Exit
+Choose an option: 
